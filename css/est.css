@@ -1,0 +1,11 @@
+.card-text {
+ position: center;
+}
+body {
+	background-color: #FFFFFF;
+	display: flex;
+	flex-direction: column;
+}
+.container {
+	background-color: #FFFFFF;
+}
